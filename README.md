@@ -1,5 +1,16 @@
-# Official Suggester Documentation
-Everything you need to know about Suggester, including all commands, configuration elements and community programs. Suggestions have never been easier to set up!
+<p align="center">
+    <h2 align="center">
+      <t>Official Suggester Documentation</t>
+    </h3>
+  </p>
+
+
+<p align="center">
+    <h3 align="center">
+      <b>Everything you need to know about Suggester, including all commands, configuration elements and community programs. Suggestions have never been easier to set up!</b>
+    </h3>
+  </p>
+
 
 ### Resources
 
